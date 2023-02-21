@@ -1,0 +1,8 @@
+stylesheet.css  
+
+div {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    
+}
